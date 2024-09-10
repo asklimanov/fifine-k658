@@ -1,0 +1,3 @@
+# MIC HARD VOL 50%
+Device: Микрофон Fifine K658  Microphone {6c6a7522-2c98-43b2-94cb-59a3f50cfac5}
+Preamp: 14 dB
